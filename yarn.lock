@@ -7810,6 +7810,11 @@ vuejs-paginate@1.9.3:
   resolved "https://registry.yarnpkg.com/vuejs-paginate/-/vuejs-paginate-1.9.3.tgz#cf5579a7b54844b0d90a9b92f5611f8e96f92265"
   integrity sha512-vtiSvv3aaNjIEEfa4kgBV9xYXbdqQzrl9MAZcJkZqpEZrYlF0W+w7crjc53ZFZ4a/25Sj7NuWyjv2Yc7z21ORA==
 
+vuex@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.1.2.tgz#a2863f4005aa73f2587e55c3fadf3f01f69c7d4d"
+  integrity sha512-ha3jNLJqNhhrAemDXcmMJMKf1Zu4sybMPr9KxJIuOpVcsDQlTBYLLladav2U+g1AvdYDG5Gs0xBTb0M5pXXYFQ==
+
 watchpack@^1.6.0:
   version "1.6.0"
   resolved "https://registry.npm.taobao.org/watchpack/download/watchpack-1.6.0.tgz?cache=0&sync_timestamp=1579095944058&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fwatchpack%2Fdownload%2Fwatchpack-1.6.0.tgz#4bc12c2ebe8aa277a71f1d3f14d685c7b446cd00"
