@@ -16,7 +16,7 @@
                 </div>
                 <div>
                     <div>&nbsp;</div>
-                    <input type="button" class="btn btn-primary" value="변 경" @click="photoEvent()"/>
+                    <input type="button" class="btn btn-primary" value="변 경" @click="photoSubmit()"/>
                     <input type="button" class="btn btn-primary" value="취 소" @click="cancelEvent()"/>
                 </div>
             </form>
